@@ -1,0 +1,27 @@
+Polly HowTo
+
+Space = Start/Stop Record Sample
+
+Ctrl+Space = Mute/Unmute Current Sample
+
+Arrow Left/Right = Change "active" sample
+
+1 2 3 ... = Change group for current active sample
+
+Ctrl+ 1 2 3 ... = Change play order for current active sample in group
+
+Backspace = Remove current active sample
+
++/- = add/dec start recording delay (time is in ms)
+
+?/_ = add/dec automatic recording time (time is in ms)
+
+Enter = play current sample solo
+
+t = Start/Stop take - record all that is currently in output to a file
+
+T = Pause/Unpause take
+
+
+By Erik Johansson - ejevik@hotmail.com - 2011
+
